@@ -1,0 +1,19 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "adding a map to a website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wclaros1786/MaptyFi.git"
+  },
+  "author": "will",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wclaros1786/MaptyFi/issues"
+  },
+  "homepage": "https://github.com/wclaros1786/MaptyFi#readme"
+}
